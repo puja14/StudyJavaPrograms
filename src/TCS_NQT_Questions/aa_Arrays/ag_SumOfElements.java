@@ -8,5 +8,4 @@ public class ag_SumOfElements {
         }
         System.out.print("The Sum is: " +sum);
     }
-
 }
