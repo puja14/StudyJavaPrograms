@@ -1,4 +1,4 @@
-package aa_Arrays;
+package TCS_NQT_Questions.aa_Arrays;
 
 public class aa_SmallestInArray {
     public static void main(String[] args) {
